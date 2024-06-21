@@ -1,4 +1,4 @@
-![Image](https://www.cypress.io/cypress_logo_social.png)
+![Image](https://media.licdn.com/dms/image/C5112AQEi3UU4OEjOzA/article-cover_image-shrink_600_2000/0/1580304392113?e=2147483647&v=beta&t=p7dkkyO4guUHym_Ee-cizoYaqPPgu7IP9mjx3-pPXMU)
 
 ## Date: 06/18/2024
 
